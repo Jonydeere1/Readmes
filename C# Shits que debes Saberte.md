@@ -233,7 +233,9 @@ public sealed class Administrador : Empleado // No puede ser heredada
 
 ---
 
-## 2).- ¡Changos! Ahora vamos a explorar el concepto de `abstract` en C# y las combinaciones más importantes relacionadas con este modificador.
+## 2).- ¡Changos! 
+
+Ahora vamos a explorar el concepto de `abstract` en C# y las combinaciones más importantes relacionadas con este modificador.
 
 ---
 
@@ -479,7 +481,7 @@ miCamion.Cargar();
 
 ---
 
-### 3).- **Resumen de los Modificadores y Conceptos**
+## 3).- **Resumen de los Modificadores y Conceptos**
 
 1. **`abstract` (Clases y Métodos Abstractos):**
    
