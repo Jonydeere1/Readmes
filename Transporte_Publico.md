@@ -82,6 +82,8 @@ A modo de experimento mental con fines de visualizar las limitaciones que se sue
 
 Fue que decidí obviar por completo la temática de la **salud** (aunque dejé los indicios para ser inferidos en un enfoque más profundo de las variables mencionadas), donde una persona con ese **IMC** y condición de **embarazo de alto riesgo** es altamente susceptible a las condiciones climáticas internas y externas, donde el índice de ocupación de la unidad de transporte en cuestión juega un rol protagónico; cambios de presión, temperatura (A/A y ventilación natural), niveles de oxigenación, olores, etc., sin siquiera mencionar el impacto psicosocial de la cuestión.
 
+También fue que no hice demasiado incapie en que se moviliza con una niña de 4 años, lo cual sumado a su condicion fisica y fisiologica, añade varios grados más a la situación.
+
 Lo cual nos lleva a una contemplación o meditación profunda de la realidad, donde se acostumbra a colapsar la capacidad de la unidad de pasajeros, incluso en las destinadas y equipadas al transporte especial, en pos de un *beneficio* que en el fondo no existe para quienes debería.
 
 El caso de Alicia resalta la urgencia de desarrollar soluciones multidisciplinarias que no solo optimicen el sistema de transporte público, sino que también aborden los desafíos de seguridad y accesibilidad para usuarios en condiciones de vulnerabilidad.
